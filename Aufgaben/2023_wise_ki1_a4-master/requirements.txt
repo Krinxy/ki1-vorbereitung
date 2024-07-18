@@ -1,0 +1,9 @@
+matplotlib
+pandas
+numpy
+scikit-learn
+PyQt5
+opencv-python
+
+# ausserdem notwendig
+# sudo apt install python3-opencv qtwayland5 

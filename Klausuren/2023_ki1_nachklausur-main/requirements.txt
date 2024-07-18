@@ -1,0 +1,5 @@
+matplotlib
+numpy
+cv2
+
+# on ubuntu also: sudo apt install python3-opencv

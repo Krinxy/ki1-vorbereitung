@@ -1,0 +1,17 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdf
+*.synctex.gz
+data/*
+*.pyc
+launch.json
+*.png
+*.jpg
+*.jpeg
+*.dat
+*.pkl
+settings.json
+.venv

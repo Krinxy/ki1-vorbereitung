@@ -1,0 +1,16 @@
+*.pyc
+settings.json
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+data/*
+*.pyc
+launch.json
+*.dat
+*.pkl
+settings.json
+.venv
+.DS_STORE

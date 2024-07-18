@@ -1,0 +1,14 @@
+*.pyc
+settings.json
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*swp
+*.fdb_latexmk
+*.fls
+.DS_Store
